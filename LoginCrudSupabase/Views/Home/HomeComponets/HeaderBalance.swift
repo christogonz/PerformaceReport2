@@ -22,7 +22,7 @@ struct HeaderBalance: View {
 
     var body: some View {
         VStack(alignment: .center, spacing: 10) {
-            Text("Balanseeee")
+            Text("B A L A N C E")
                 .fontWeight(.thin)
                 .font(.system(size: 35))
                 .foregroundStyle(.white)
